@@ -5,7 +5,7 @@ import re
 
 class User: # A class to represent library users with attributes like name, library ID, and a list of borrowed book titles.
     def __init__(self):
-        self.library = Database(database='', password='', user='', host='')
+        self.library = Database(database='', password='', user='', host='127.0.0.1')
        
 
         

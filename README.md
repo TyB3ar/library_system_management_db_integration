@@ -18,4 +18,6 @@ Otherwise, all functions are similar to the old Library Management system, where
 - Borrow and Return Books within the Library 
 - Search for a specific author, user, or book in the library system 
 
+Images of the Database I was working with are included to give some insight as to how the tables looked and what information was there. 
+
 Thank you very much! 
